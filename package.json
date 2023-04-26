@@ -4,7 +4,8 @@
   "description": "<div>\r   <h3><b>First Microverse Project </b></h3>",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webhint": "hint http://localhost:8080"
   },
   "keywords": [],
   "author": "",
