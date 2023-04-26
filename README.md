@@ -16,8 +16,11 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-- [🔭 Future Features](#future-features)
-- [📝 License](#license)
+  - [👥 Authors](#authors)
+  - [🤝 Contributing](#contributing)
+  - [⭐️ Show your support](#support)
+  - [🔭 Future Features](#future-features)
+  - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -76,6 +79,22 @@ Install this project with:
 ### Usage
 - run visual studio code live server
 
+## 👥 Authors <a name="authors"></a>
+
+> Mention all of the collaborators of this project.
+
+👤 **Author**
+
+- GitHub: [@1DelaMcRaph](https://github.com/1DelaMcRaph)
+- Twitter: [@DelaK_McRaph](https://twitter.com/DelaK_McRaph)
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+## ⭐️ Show your support <a name="support"></a>
+
+> The software engineering journey just stated...
 
 <!-- FUTURE FEATURES -->
 
